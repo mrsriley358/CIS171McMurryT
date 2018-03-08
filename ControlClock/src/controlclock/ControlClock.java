@@ -1,3 +1,5 @@
+/// Looks good. 
+
 /*
  * Ty McMurry
  * Excercise 15.32 Control clock
@@ -59,6 +61,8 @@ public class ControlClock extends Application {
     launch(args);
   }
 
+   /// start putting each class into a separate .java file
+   
   class ClockPane extends Pane {
     private int hour;
     private int minute;
